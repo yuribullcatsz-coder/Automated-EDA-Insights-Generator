@@ -69,6 +69,9 @@ For optimal performance, datasets should have <100,000 rows
 
 <img width="1159" height="406" alt="image" src="https://github.com/user-attachments/assets/77f8e346-e9f0-4cfc-ab50-4111ef54d776" />
 
+<img width="1648" height="800" alt="image" src="https://github.com/user-attachments/assets/18e4c62c-5dd0-4e30-93bc-afb4d318f647" />
+
+
 <img width="1709" height="315" alt="image" src="https://github.com/user-attachments/assets/7d840787-7fa8-460b-bb10-cbbd25852f68" />
 
 
