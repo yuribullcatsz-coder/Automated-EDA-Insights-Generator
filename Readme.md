@@ -81,7 +81,7 @@ The app opens in your browser (default URL: [http://localhost:8501](http://local
 
 ## How to use the app
 
-1. **Upload a CSV** using “Browse files”. The file is read in memory; nothing is stored on disk by the app.
+1. **Upload a CSV** using "Browse files". The file is read in memory; nothing is stored on disk by the app.
 2. **Overview** — Check shape, missing values, dtypes, first rows, and descriptive statistics.
 3. **Visualizations** — Scroll distributions for numeric and categorical columns. Columns with no plottable values show a short caption instead of an empty chart.
 4. **Correlations** — Requires at least two numeric columns with data. Strong correlations use a threshold of **0.5** on the absolute value of Pearson correlation in `eda_app.py` (backed by `strong_correlations()` in `eda_analysis.py`).
